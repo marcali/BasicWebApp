@@ -13,7 +13,7 @@ import org.eclipse.jetty.servlet.ServletHandler;
 import org.eclipse.jetty.servlet.ServletHolder;
 
 public class WebServer {
-  //build test
+  //build
 
   public WebServer() throws Exception {
 
